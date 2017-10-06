@@ -52,7 +52,6 @@
 		margin-top: 80px;
 		font-family: "Comic Sans MS", cursive, sans-serif
 		text: center;
-		text-decoration: underline;
 		vertical-align: middle;
 		position: relative;
 	}
@@ -118,12 +117,14 @@
 		background-color: #fff;
 		min-height:10px;
 	}
-
+	h1 {
+		text-align: center;
+	}
+	
 	h2 {
 		margin-top: 80px;
 		font-family: "Comic Sans MS", cursive, sans-serif
 		text: center;
-		text-decoration: underline;
 		vertical-align: middle;
 		position: relative;
 	}
@@ -189,12 +190,15 @@
 		background-color: #fff;
 		min-height:10px;
 	}
-
+	
+	h1 {
+		text-align: center;
+	}
+	
 	h2 {
 		margin-top: 50px;
 		font-family: "Comic Sans MS", cursive, sans-serif
 		text: center;
-		text-decoration: underline;
 		vertical-align: middle;
 		position: relative;
 	}
@@ -260,12 +264,15 @@
 		background-color: #fff;
 		min-height:10px;
 	}
-
+	
+	h1 {
+		text-align: center;
+	}
+	
 	h2 {
 		margin-top: 50px;
 		font-family: "Comic Sans MS", cursive, sans-serif
 		text: center;
-		text-decoration: underline;
 		vertical-align: middle;
 		position: relative;
 	}
