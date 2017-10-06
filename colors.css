@@ -286,22 +286,23 @@
 }
 
 .green {
-  background-color: #FEF143;
+  background-color: #015C00;
 }
 
 .greeen {
-  background-color: #ED5879;
+  background-color: #02910D;
 }
 
 .blue {
-  background-color: #FB5734;
+  background-color: #BBE7FF;
 }
 
 .bluee {
-  background-color: #2CA389;
+  background-color: #DBE7FF;
 }
 
 .mm {
-  background-color: #F351FF;
+  background-color: #BBE7FF;
+  opacity: 0.8;
 }
 }
